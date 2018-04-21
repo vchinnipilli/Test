@@ -1,7 +1,10 @@
 This is a test file 1
 
 I made the changes to test pull
+<<<<<<< HEAD
 
 another push from local clone
 
 
+=======
+>>>>>>> parent of 83a0735... push from clone
